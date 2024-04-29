@@ -11,8 +11,6 @@ namespace TicTacToe
         {
             InitializeComponent();
         }
-        #endregion
-        #region Buttons
         public void Clicked(object sender, EventArgs e)
         {
             btnHandler.Clicked(sender, e, turn);
