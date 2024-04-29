@@ -43,7 +43,17 @@
                 label.Text = "Spieler 1";
             }
         }
+        public static bool controlWinnerX(string one, string two, string three)
         {
+            if (one != "" && two != "" && three != "")
+            {
+                if (one == two && one == three) { return true; }
+                else { return false; }
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
