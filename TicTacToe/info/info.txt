@@ -1,0 +1,7 @@
+Inpiration and Idea thanks to Work Colleagues and the following Link:
+https://www.c-sharpcorner.com/UploadFile/1e050f/creating-tic-tac-toe-step-by-step/
+
+If you had any inspiration by this Programm, maybe try to write your own Version.
+As this is a "Kinda Redo" of the 2013 Version of an TicTacToe Game.
+
+Skulard - 2024
