@@ -45,15 +45,8 @@
         }
         public static bool controlWinnerX(string one, string two, string three)
         {
-            if (one != "" && two != "" && three != "")
-            {
-                if (one == two && one == three) { return true; }
-                else { return false; }
-            }
-            else
-            {
-                return false;
-            }
+            //somehow to check for winner
+            return false;
         }
     }
 }
